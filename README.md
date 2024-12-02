@@ -1,2 +1,3 @@
-# reqwaaaaa.github.io
-blog
+# naiweilanlan
+
+Thinking in my way.
