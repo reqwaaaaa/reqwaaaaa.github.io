@@ -5,6 +5,5 @@
 layout: home
 
 ---
-# Welcome to my blog!
 
 [About Me](/about/)
