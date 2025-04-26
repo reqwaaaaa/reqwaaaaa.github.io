@@ -35,7 +35,7 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  avatar: favicon.ico
+  avatar: assets/images/avatar.png
 
 timezone: Asia/Shanghai
 
