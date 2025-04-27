@@ -27,14 +27,15 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-include-cache
   - jekyll-remote-theme
+  - ekyll-assets
 
 author:
+  name: "Naiweilanlan"
   avatar: assets/images/avatar.png
 
 timezone: Asia/Shanghai
@@ -42,6 +43,9 @@ timezone: Asia/Shanghai
 repository: reqwaaaaa/reqwaaaaa.github.io
 
 excerpt_separator: "<!--more-->"
+
+permalink: /:title/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

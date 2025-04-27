@@ -1,0 +1,38 @@
+<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup theme-color -->
+{% include head-custom-theme-colors.html %}
+
+<!-- Setup Google Analytics -->
+<!-- {% include head-custom-google-analytics.html %} -->
+
+<!-- Setup Plausible Analytics -->
+<script defer data-domain="thiswind.work" src="https://plausible.io/js/script.js"></script>
+
+<!-- You can set your favicon here -->
+<link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/avatar.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/avatar.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/avatar.png' | relative_url }}">
+<link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
+
+<!-- RSS-->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="{{ " /feed.xml" | relative_url }}">
+
+<!-- MathJax -->
+<script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<script type="text/javascript">
+    MathJax = {
+        tex: {
+            inlineMath: [['\\(', '\\)']], // 使用 \( \) 包裹行内公式
+            displayMath: [['\\[', '\\]']] // 使用 \[ \] 包裹块级公式
+        },
+        svg: {
+            fontCache: 'global'
+        }
+    };
+</script>
+
+<!-- end custom head snippets -->
