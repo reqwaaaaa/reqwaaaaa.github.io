@@ -21,4 +21,4 @@ permalink: /about/
 
 ---
 
-**Thank you for visiting my site!**
+**Thank you for visiting my site!(*[resume](/resume/index.html)*)**
