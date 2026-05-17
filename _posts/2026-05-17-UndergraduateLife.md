@@ -9,7 +9,7 @@ tags: ["展望", "结语", "Lution", "YPZ", "Wushi"]
 <img src="/assets/images/云大的黄昏.jpeg" alt="落幕" class="post-image">
 
 <div class="bilingual">
-  <div class="zh">
+  <div class="en">
     Enqiang, hearest thou my voice, still?
   </div>
   <div class="ar" dir="rtl">
@@ -20,7 +20,7 @@ tags: ["展望", "结语", "Lution", "YPZ", "Wushi"]
 <!--more-->
 
 <div class="bilingual">
-  <div class="zh">
+  <div class="en">
     To be alive... To walk this Earth... That's the real curse right there. We Undead will never die. And that's quite a predicament, really...
   </div>
   <div class="ar" dir="rtl">
@@ -29,7 +29,7 @@ tags: ["展望", "结语", "Lution", "YPZ", "Wushi"]
 </div>
 
 <div class="bilingual">
-  <div class="zh">
+  <div class="en">
     These four years of undergraduate study have been a long and arduous journey through the ashes, much like the endless trials of the Undead. We walked through the ruins of Lothric, rising again and again amid repeated defeats and rekindled hope. The true harvest lies not in certificates, but in a mind that has grown firmer yet remains open and aspiring, and in the resilience that still dares to look up in search of light even in the darkest moments.
   </div>
   <div class="ar" dir="rtl">
@@ -38,7 +38,7 @@ tags: ["展望", "结语", "Lution", "YPZ", "Wushi"]
 </div>
 
 <div class="bilingual">
-  <div class="zh">
+  <div class="en">
     The sun is a wondrous body. Like a magnificent father! If only I could be so grossly incandescent! In those late nights of introspection and self-doubt, I learned not to fear my identity as ash, but to yearn to become a radiant flame. To all the dear friends who have walked this path with me — Let the sun shine upon this Lord of Cinder! To your valour, my sword, and our victory together. Long may the sun shine!
   </div>
   <div class="ar" dir="rtl">
@@ -47,7 +47,7 @@ tags: ["展望", "结语", "Lution", "YPZ", "Wushi"]
 </div>
 
 <div class="bilingual">
-  <div class="zh">
+  <div class="en">
     Now, as the fire of undergraduate life slowly fades, I am not heading toward an end, but stepping into a new beginning with a more mature mind and a stronger soul. Even if I become a wandering spirit along the way, I still believe: after the ashes comes renewal. Ashes of the End, Embers of the Beginning.
   </div>
   <div class="ar" dir="rtl">

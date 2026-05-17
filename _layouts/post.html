@@ -8,6 +8,7 @@ layout: default
 <!-- 标题对照显示 -->
 <h1 class="bilingual-title">
   <span class="zh">{{ page.title }}</span>
+  <span class="en">{{ page.title_en }}</span>
   <span class="ar" dir="rtl">{{ page.title_ar }}</span>
 </h1>
 
@@ -18,6 +19,9 @@ layout: default
 <div class="bilingual">
   <div class="zh">
     {{ content }}
+  </div>
+  <div class="en" style="text-align: justify;">
+    {{ content_en }}
   </div>
   <div class="ar" dir="rtl">
     {{ content_ar }}
