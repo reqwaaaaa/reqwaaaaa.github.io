@@ -92,6 +92,21 @@
   }
 }
 
+/* 双语内容 - 英文两端对齐 */
+.bilingual .en {
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+    margin: 10px 0;
+    font-size: var(--font-size-base);
+    line-height: 1.8;
+    color: #e0e0e0;
+    
+    @media (max-width: 768px) {
+        margin: 8px 0;
+    }
+}
+
 /* 图片样式：响应式宽度 */
 .post-image {
   display: block;
